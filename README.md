@@ -1,53 +1,53 @@
-# 👋 Hey, I'm Guilherme Henrique
+# 👋 Olá, eu sou o Guilherme Henrique 
 
-🇧🇷 Brazil  
-🎓 Analysis and Systems Development Student  
-🎮 Gamer | 💻 Future Developer | 🚀 Constant Evolution  
-
----
-
-## 🌱 About Me
-
-I'm a technology enthusiast who decided to turn curiosity into code.
-
-Currently building my foundation in web development and programming logic, 
-learning step by step how systems work — not just how to use them, but how to create them.
-
-I believe growth is built through consistency, practice, and courage to start before feeling ready.
+🇧🇷 Brasil  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🎮 Gamer | 💻 Futuro Desenvolvedor | 🚀 Evolução Constante  
 
 ---
 
-## 🧠 What I'm Learning Right Now
+## 🌱 Sobre Mim
 
-- 🌐 HTML — Structure matters  
-- 🎨 CSS — Design brings ideas to life  
-- ⚡ JavaScript — Making the web dynamic  
-- 🐍 Python — Strengthening logic and problem solving  
+Sou um entusiasta de tecnologia que decidiu transformar curiosidade em código.
 
-Every new concept is a new level unlocked.
+Atualmente, estou construindo minha base em desenvolvimento web e lógica de programação, 
+aprendendo passo a passo como os sistemas funcionam — não apenas como usá-los, mas como criá-los.
 
----
-
-## 🎯 My Current Mission
-
-- Build real portfolio projects  
-- Improve logical thinking and clean code habits  
-- Prepare for my first internship  
-- Become a full-stack developer in the future  
+Acredito que o crescimento é construído através da consistência, prática e coragem de começar antes de se sentir pronto.
 
 ---
 
-## 🎮 Beyond Code
+## 🧠 O Que Estou Aprendendo Agora
 
-When I'm not coding, you’ll probably find me:
-- Playing games 🎮  
-- Watching movies 🎬  
-- Learning something new about tech  
-- Thinking about how systems could be better  
+- 🌐 HTML — Estrutura é essencial  
+- 🎨 CSS — O design dá vida às ideias  
+- ⚡ JavaScript — Tornando a web dinâmica  
+- 🐍 Python — Fortalecendo lógica e resolução de problemas  
+
+Cada novo conceito é um novo nível desbloqueado.
 
 ---
 
-## 🛠️ Tech Stack (in progress 🚧)
+## 🎯 Minha Missão Atual
+
+- Construir projetos reais para o portfólio  
+- Melhorar o raciocínio lógico e hábitos de código limpo  
+- Me preparar para meu primeiro estágio  
+- Tornar-me desenvolvedor full-stack no futuro  
+
+---
+
+## 🎮 Além do Código
+
+Quando não estou programando, provavelmente estou:  
+- Jogando games 🎮  
+- Assistindo filmes 🎬  
+- Aprendendo algo novo sobre tecnologia  
+- Pensando em como os sistemas poderiam ser melhores  
+
+---
+
+## 🛠️ Tech Stack (em desenvolvimento 🚧)
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -56,9 +56,9 @@ When I'm not coding, you’ll probably find me:
 
 ---
 
-## ✨ Personal Philosophy
+## ✨ Filosofia Pessoal
 
-> "Small progress every day builds extraordinary results."
+> "Pequenos progressos todos os dias constroem resultados extraordinários."
 
-This is just the beginning.
+Isso é só o começo.
 
