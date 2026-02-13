@@ -8,21 +8,21 @@
 
 ## 🌱 Sobre Mim
 
-Sou um entusiasta de tecnologia que decidiu transformar curiosidade em código.
+Sou um entusiasta da tecnologia que decidiu transformar curiosidade em código.
 
 Atualmente, estou construindo minha base em desenvolvimento web e lógica de programação, 
 aprendendo passo a passo como os sistemas funcionam — não apenas como usá-los, mas como criá-los.
 
-Acredito que o crescimento é construído através da consistência, prática e coragem de começar antes de se sentir pronto.
+Acredito que o crescimento é construído através da consistência, prática e da coragem de começar antes de se sentir pronto.
 
 ---
 
 ## 🧠 O Que Estou Aprendendo Agora
 
-- 🌐 HTML — Estrutura é essencial  
-- 🎨 CSS — O design dá vida às ideias  
+- 🌐 HTML — Estrutura é fundamental  
+- 🎨 CSS — Design dá vida às ideias  
 - ⚡ JavaScript — Tornando a web dinâmica  
-- 🐍 Python — Fortalecendo lógica e resolução de problemas  
+- 🐍 Python — Fortalecendo a lógica e resolução de problemas  
 
 Cada novo conceito é um novo nível desbloqueado.
 
@@ -30,24 +30,24 @@ Cada novo conceito é um novo nível desbloqueado.
 
 ## 🎯 Minha Missão Atual
 
-- Construir projetos reais para o portfólio  
-- Melhorar o raciocínio lógico e hábitos de código limpo  
-- Me preparar para meu primeiro estágio  
-- Tornar-me desenvolvedor full-stack no futuro  
+- Construir projetos reais para meu portfólio  
+- Melhorar o raciocínio lógico e hábitos de código limpo (Clean Code)  
+- Me preparar para o meu primeiro estágio  
+- Tornar-me um desenvolvedor Full-stack no futuro  
 
 ---
 
 ## 🎮 Além do Código
 
-Quando não estou programando, provavelmente estou:  
-- Jogando games 🎮  
+Quando não estou programando, você provavelmente vai me encontrar:
+- Jogando algum game 🎮  
 - Assistindo filmes 🎬  
 - Aprendendo algo novo sobre tecnologia  
 - Pensando em como os sistemas poderiam ser melhores  
 
 ---
 
-## 🛠️ Tech Stack (em desenvolvimento 🚧)
+## 🛠️ Stack Tecnológica (em progresso 🚧)
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -60,5 +60,9 @@ Quando não estou programando, provavelmente estou:
 
 > "Pequenos progressos todos os dias constroem resultados extraordinários."
 
-Isso é só o começo.
+Este é apenas o começo.
+
+
+
+
 
